@@ -69,3 +69,7 @@ def bsSelenium(url):
     html = driver.page_source
     bs = BeautifulSoup(html,'html.parser')
     return bs
+
+# <-------------------------E N D------------------------->
+driver.quit()
+display.stop()
