@@ -1,4 +1,4 @@
-# DataScraping_with_Selenium_in_Ubuntu_20.04
+# DataScraping with Selenium in Ubuntu 20.04
 
 Setting for the data scrapers in ubuntu 20.04
 
